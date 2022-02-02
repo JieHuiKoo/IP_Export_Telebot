@@ -1,6 +1,6 @@
 # IP_Export_Telebot
-
-## This project aims to automate the process of obtaining the IP address of the raspberry pi to ease the process of SSH into the pi!
+## About:<br/>
+This project aims to automate the process of obtaining the IP address of the raspberry pi to ease the process of SSH into the pi!
 
 ## This project consists of:<br/>
 1) export_ip.sh<br/>
