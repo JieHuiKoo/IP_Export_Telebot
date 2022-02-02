@@ -1,5 +1,7 @@
 # IP_Export_Telebot
 
+## This project aims to automate the process of obtaining the IP address of the raspberry pi to ease the process of SSH into the pi!
+
 ## This project consists of:<br/>
 1) export_ip.sh<br/>
 This is to be added as a start up script located in a folder with directory ~/obtain_ip, and made an executable via the following command.
