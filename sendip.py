@@ -7,7 +7,7 @@ if os.name == 'posix':
 else:
     slash = '\\'
 
-# Getting the currently working directory
+# # Getting the currently working directory
 current_working_directory = os.getcwd()
 
 # Open the files for ip address, token for the telebot, and the user ID
